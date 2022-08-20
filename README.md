@@ -1,5 +1,5 @@
 # React Recipe App
-This Recipe website is a react application. It consist of Search feild and a Search button.
+This react website is a recipes application consisting of list of food recipes along with search bar.
 
 ## Features
 * It is a single page website which consists of Recipes.
