@@ -16,8 +16,8 @@ This react website is a recipes application consisting of list of food recipes a
 <img src=images/home_page.png height="500px"/>
 <br/><br/>
 
-<img src=images/recipe_details.png height="500px"/>
+<img src=images/search_feature.png height="500px"/>
 <br/><br/>
 
-<img src=images/search_feature.png height="500px"/>
+<img src=images/recipe_details.png height="500px"/>
 <br/><br/>
