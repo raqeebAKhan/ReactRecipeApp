@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ReactRecipeApp
 =======
 # Getting Started with Create React App
@@ -72,3 +73,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> a6e54b77c93f761aa5aa6dcaab57ef64acdb41fe
+=======
+# React Recipe App
+This react website is a recipes application consisting of list of food recipes along with search bar.
+
+## Features
+* It is a single page website which consists of Recipes.
+* The data is fetched through Api.
+* There is a search feature if we search any recipe name and click search data related that particular recipe name will be displayed.
+
+## Technologies
+* React JS 
+* Api Implementation
+* Host on Netlify
+>>>>>>> 6f52677a40193a649fddc2418e144771847c6152
