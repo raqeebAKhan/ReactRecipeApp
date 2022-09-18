@@ -11,6 +11,9 @@ This react website is a recipes application consisting of list of food recipes a
 * Api Implementation
 * Host on Netlify and Firebase
 
+## Website Link
+https://rak-recipes.netlify.app/
+
 ## Screenshots of Website
 
 <img src=images/home_page.png height="500px"/>
